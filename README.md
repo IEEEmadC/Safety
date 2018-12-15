@@ -36,4 +36,8 @@ Safety will be useful for every day life in this busy world. With Safety, you no
 # Video
 https://youtu.be/CjfIN1y2__s
 
-# Team Details
+# Details
+App name- Safety
+Team name- Endure
+Country - India
+
