@@ -32,3 +32,8 @@ Safety is still under development. Major upcoming features include-Voice sensiti
 # Usefulness 
 
 Safety will be useful for every day life in this busy world. With Safety, you no longer need to worry about your safety. This will help in better emergency management and disaster management, reducing emergency deaths, accidental deaths, reducing crimes, better women safety and child safety. 
+
+# Video
+https://youtu.be/CjfIN1y2__s
+
+# Team Details
