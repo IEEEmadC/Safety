@@ -38,6 +38,12 @@ https://youtu.be/CjfIN1y2__s
 
 # Details
 App name- Safety
+
 Team name- Endure
+
 Country - India
+
+Apk file - 
+        Safety/app-release.apk
+      
 
