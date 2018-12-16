@@ -43,7 +43,9 @@ Team name- Endure
 
 Country - India
 
-Apk file - https://www.github.com/bibin-johny/Safety/app-release.apk
+Apk file - 
+        Safety/app-release.apk
+      
 
 Description -
 
