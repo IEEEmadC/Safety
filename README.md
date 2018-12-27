@@ -43,7 +43,7 @@ Team name- Endure
 
 Country - India
 
-Apk file - https://github.com/bibin-johny/Safety/apk
+Apk file - https://github.com/bibin-johny/Safety/tree/master/apk
      
 Description -
 
