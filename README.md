@@ -11,7 +11,7 @@ On activating Safety, your emergency situation and your exact location will be s
 
 # How to activate Safety 
 
-Easiness is the best way to manage an emergency. You can activate Safety either by tapping the appropriate button in the home screen or by voice commands. Voice commands lets you activate Safety more easily even if your phone is in your pocket, bag, purse or away from you. If you are facing a crime, just speak out 'Crime Crime'. Safety is activated. Voice commands are mostly useful when you are unable to take your phone. You can cancel the activation using Deactivation Pin. 
+Easiness is the best way to manage an emergency. You can activate Safety either by tapping the appropriate button in the home screen or by voice commands. Voice commands lets you activate Safety more easily even if your phone is in your pocket, bag, purse or away from you. If you are facing a crime, just speak out 'Crime Crime'. Safety is activated. Voice commands are mostly useful when you are unable to take your phone. You can cancel the activation using Deactivation Pin. You can adjust the voice sensitivity according to your voice.
 
 # Track Location 
 
@@ -27,7 +27,7 @@ Safety is available over 50+ languages. App language changes according to the sy
 
 # Further Development 
 
-Safety is still under development. Major upcoming features include-Voice sensitivity adjustment to ease the voice activation, UI improvement. 
+Safety is still under development. Major upcoming features include offline speech to text and UI improvement. 
 
 # Usefulness 
 
@@ -43,10 +43,8 @@ Team name- Endure
 
 Country - India
 
-Apk file - 
-        Safety/app-release.apk
-      
-
+Apk file - https://github.com/bibin-johny/Safety/tree/master/apk
+     
 Description -
 
 Safety - Keep you and your loved ones safe. 
