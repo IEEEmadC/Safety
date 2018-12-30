@@ -11,7 +11,7 @@ On activating Safety, your emergency situation and your exact location will be s
 
 # How to activate Safety 
 
-Easiness is the best way to manage an emergency. You can activate Safety either by tapping the appropriate button in the home screen or by voice commands. Voice commands lets you activate Safety more easily even if your phone is in your pocket, bag, purse or away from you. If you are facing a crime, just speak out 'Crime Crime'. Safety is activated. Voice commands are mostly useful when you are unable to take your phone. You can cancel the activation using Deactivation Pin. You can adjust the voice sensitivity according to your voice.
+Easiness is the best way to manage an emergency. You can activate Safety either by tapping the appropriate button in the home screen or by voice commands. Voice commands lets you activate Safety more easily even if your phone is in your pocket, bag, purse or away from you. If you are facing a crime, just speak out 'Crime Crime'. Safety is activated. Voice commands are mostly useful when you are unable to take your phone. Safety also have stylish app widgets to ease activation. You can cancel the activation using Deactivation Pin. You can adjust the voice sensitivity according to your voice.
 
 # Track Location 
 
@@ -23,7 +23,7 @@ Never be worried of unexpected disasters. Safety will let you know. You will rec
 
 # Other features 
 
-Safety is available over 50+ languages. App language changes according to the system language. Set custom alert sounds for each of the features. Special reminders to update your medical information. 
+Safety is available over 50+ languages. App language changes according to the system language. Set custom alert sounds for each of the features. Special reminders to update your medical information. Better app widgets for activation.
 
 # Further Development 
 
